@@ -1,4 +1,4 @@
-Some useful links to learn more about AWS and get certified.
+**Some useful links to learn more about AWS and get certified.**
 
 
 AWS Certification: https://aws.amazon.com/certification/?nc2=sb_ce_co
